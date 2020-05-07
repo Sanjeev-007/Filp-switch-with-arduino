@@ -1,5 +1,5 @@
 //This is Arduino file.
-
+// to know how this code works you can watch this video: https://www.youtube.com/watch?v=GWuvM-9IlK8
 #include<Servo.h>
 Servo servo_switch;
 int pos=20;
