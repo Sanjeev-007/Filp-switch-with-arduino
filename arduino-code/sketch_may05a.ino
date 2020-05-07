@@ -1,3 +1,5 @@
+//This is Arduino file.
+
 #include<Servo.h>
 Servo servo_switch;
 int pos=20;
