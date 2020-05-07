@@ -4,7 +4,7 @@
   <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="UTF-8">
-  </head>
+    </head>
   <body>
 <form 	action="sense.php"     method="get">
 <input type=hidden name=data value=1>
